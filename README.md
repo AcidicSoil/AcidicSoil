@@ -27,8 +27,7 @@ Most of what I work on sits somewhere around DSPy, LM Studio, OpenAI-compatible 
 - **lms-llmsTxt** — generates `llms.txt`-style artifacts with DSPy + LM Studio
 - **rag-v2** — an LM Studio RAG plugin
 - **dspy_workspace** — experiments, utilities, and scratch space for DSPy work
-- **prompts** — reusable prompt assets and workflow patterns
-- **my-chat-editor** — a compact chat/editor/diff UI
+- **prompt-docs** — reusable prompt assets and workflow patterns
 
 ## what the public stuff doesn't show
 
