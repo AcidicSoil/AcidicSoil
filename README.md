@@ -72,13 +72,13 @@ I usually prefer:
 
 <div align="center">
 
-[![Tokscale Stats](https://tokscale.ai/api/embed/AcidicSoil/svg?sort=cost&compact=1)](https://tokscale.ai/u/AcidicSoil)
+[![Tokscale Stats](https://tokscale.ai/api/embed/AcidicSoil/svg?sort=tokens&compact=1)](https://tokscale.ai/u/AcidicSoil)
 
 <details>
 <summary><b>GitHub embed snippet</b></summary>
 
 ```md
-[![Tokscale Stats](https://tokscale.ai/api/embed/AcidicSoil/svg?sort=cost&compact=1)](https://tokscale.ai/u/AcidicSoil)
+[![Tokscale Stats](https://tokscale.ai/api/embed/AcidicSoil/svg?sort=tokens&compact=1)](https://tokscale.ai/u/AcidicSoil)
 ````
 
 </details> </div>
