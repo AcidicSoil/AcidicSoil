@@ -12,7 +12,7 @@ I build AI systems and developer tooling focused on agentic workflows, local-fir
 
 Over the past two years, that work has grown from individual experiments into a broad portfolio of CLIs, MCP servers, agent workflows, prompt and evaluation systems, repository tooling, browser automation, and developer infrastructure. I logged **11,000+ GitHub contributions in the last year alone**, across both public and private work.
 
-Most of that output — including the bulk of that contribution volume — was produced **without relying on an AI-agent coding harness**. I have used language models extensively as engineering tools, but most of the architecture, implementation, debugging, integration, and iteration behind this portfolio was hands-on work rather than agent-generated software. My move toward coding-agent harnesses is comparatively recent.
+Most of that output — including the bulk of that contribution volume — predates my use of AI-agent coding harnesses. More importantly, much of the work came from finding **creative ways to combine immature, disconnected, or incomplete tools into systems that actually worked**. I tend to treat constraints as design problems: find the shortest viable path, repurpose what is already available, bridge gaps between tools and runtimes, and turn one-off discoveries into reusable workflows and infrastructure.
 
 ## what i build
 
@@ -50,6 +50,7 @@ The common thread is practical AI infrastructure: systems that help humans and a
 
 I tend to favor:
 
+- creative, practical solutions when the obvious path is incomplete or unavailable
 - local-first systems when local execution improves control, privacy, or iteration speed
 - explicit tools, protocols, and observable workflows over opaque automation
 - small end-to-end systems that work before adding architectural complexity
