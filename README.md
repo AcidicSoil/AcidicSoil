@@ -2,73 +2,72 @@
 
 # hi, i'm DirtyData
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Local-First+AI+Toolmaker;Building+Agentic+Dev+Workflows;Black+Boxes+Make+Me+Suspicious)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=760&lines=AI+Systems+%26+Developer+Tooling;Agent+Workflows+%26+Local+AI+Infrastructure;Building+Practical+Tools+for+Human+%2B+AI+Engineering)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=AcidicSoil&style=for-the-badge&color=blueviolet)](https://github.com/AcidicSoil)
 
 </div>
 
-I build local-first AI tools, prompt-heavy workflows, and developer systems that are meant to be used, inspected, and improved.
+I build AI systems and developer tooling focused on agentic workflows, local-first infrastructure, and making AI-assisted software development more reliable, inspectable, and controllable.
 
-Most of what I work on sits somewhere around DSPy, LM Studio, OpenAI-compatible local runtimes, RAG, prompt tooling, and repo-aware automation. Some of it is public, a lot of it is not, but the pattern is usually the same: make the workflow more useful, more inspectable, and less dependent on black-box magic.
+Over the past two years, that work has grown from individual experiments into a broad portfolio of CLIs, MCP servers, agent workflows, prompt and evaluation systems, repository tooling, browser automation, and developer infrastructure. I logged **11,000+ GitHub contributions in the last year alone**, across both public and private work.
 
-## things i've been working on
+## what i build
 
-- DSPy experiments and teaching tools
-- LM Studio tooling and plugins
-- prompt libraries, prompt workflows, and prompt testing
-- local-first agent and developer environments
-- repo mapping, structure-aware tooling, and workflow orchestration
-- small utilities that make AI-assisted development less annoying
+- agentic developer workflows, orchestration, and tool-using systems
+- MCP servers, plugins, capability layers, and harness integrations
+- local LLM tooling around LM Studio, Ollama, and OpenAI-compatible runtimes
+- prompt engineering, evaluation, benchmarking, and DSPy-based systems
+- repository intelligence, code-review, planning, and automation tools
+- browser automation and agent-facing web workflows
+- CLIs, TUIs, dashboards, registries, and other developer productivity tools
 
-## a few public repos
+## selected public work
 
-- **DSPyTeach** — turns source material into structured teaching briefs
-- **lms-llmsTxt** — generates `llms.txt`-style artifacts with DSPy + LM Studio
-- **rag-v2** — an LM Studio RAG plugin
-- **dspy_workspace** — experiments, utilities, and scratch space for DSPy work
-- **prompt-docs** — reusable prompt assets and workflow patterns
+- **DSPyTeach** — a Python CLI for file analysis, prompt-library audits, teaching briefs, refactor workflows, and agent handoffs using DSPy and local or OpenAI-compatible models
+- **lms-llmsTxt** — a CLI and MCP toolkit for generating `llms.txt`-style repository documentation with DSPy and LM Studio
+- **single-file-agents** — compact agent implementations for exploring practical agent patterns without unnecessary framework overhead
+- **deep-researcher-ts** — TypeScript work around agent-driven research workflows
+- **mcpdoc** — tooling focused on MCP-oriented documentation and developer workflows
 
-## what the public stuff doesn't show
+## beyond the public repos
 
-There is also a larger private pile of work behind this profile covering:
+A large part of my recent work lives in private repositories and active prototypes. That includes:
 
-- local-first AI development tooling
-- prompt infrastructure and benchmarking
-- code review and session analysis tools
-- repo intelligence and planning tools
-- dashboards, registries, and internal workflow systems
+- AI developer workbenches and control-plane tooling
+- prompt infrastructure, evaluation, and benchmarking systems
+- agent supervision, memory, and workflow orchestration
+- code-review, session-analysis, and repository-intelligence tools
+- browser automation and authenticated agent workflows
+- plugin, skill, MCP, and capability-management systems
+- project dashboards, registries, and internal developer operations tooling
 
-Most of it is in service of the same idea: AI tooling should be understandable, controllable, and useful in real workflows.
+The common thread is practical AI infrastructure: systems that help humans and agents work together without hiding the state, decisions, tools, or evidence behind the result.
 
-## how i tend to work
+## how i work
 
-I usually prefer:
+I tend to favor:
 
-- local-first over SaaS-first
-- tools you can inspect over tools you have to trust
-- systems that help you move faster without hiding what they're doing
-- practical workflows over polished hype demos
+- local-first systems when local execution improves control, privacy, or iteration speed
+- explicit tools, protocols, and observable workflows over opaque automation
+- small end-to-end systems that work before adding architectural complexity
+- mature SDKs and libraries before custom infrastructure
+- testable agent behavior with clear boundaries, verification, and recovery paths
+- developer interfaces that reduce friction instead of adding another layer of ceremony
+
+## technologies i spend time with
+
+**Languages & application work** — Python, TypeScript/JavaScript, Go, React
+
+**AI & agents** — DSPy, LangChain/LangGraph, local LLMs, RAG, structured prompting, evaluation, tool use, agent orchestration
+
+**AI infrastructure** — LM Studio, Ollama, OpenAI-compatible APIs, MCP, plugins, skills, model and prompt tooling
+
+**Developer systems** — Git/GitHub, Linux/WSL, browser automation, CLI/TUI tooling, APIs, workflow automation
 
 ---
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![Claude](https://img.shields.io/badge/Claude-d97706?style=for-the-badge&logo=anthropic&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-111111?style=for-the-badge&logo=openai&logoColor=white)
-![IDK](https://img.shields.io/badge/IDK-666666?style=for-the-badge&logo=question&logoColor=white)
-![Claude Does It All](https://img.shields.io/badge/Claude_Does_It_All-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white)
-![Codex Does It All](https://img.shields.io/badge/Codex_Does_It_All-0F172A?style=for-the-badge&logo=openai&logoColor=white)
-
-*I like tools that show their work and stay out of the way.* 📈✨
-
-</div>
-
----
-
-## 📊 AI Usage Embed
+## 📊 AI Usage
 
 <div align="center">
 
@@ -79,25 +78,25 @@ I usually prefer:
 
 ```md
 [![Tokscale Stats](https://tokscale.ai/api/embed/AcidicSoil/svg?sort=tokens&compact=1)](https://tokscale.ai/u/AcidicSoil)
-````
+```
 
-</details> </div>
-
-* * *
-
-📈 Contribution Graph
----------------------
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AcidicSoil&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph?utm_source=chatgpt.com)
+</details>
 
 </div>
 
-* * *
+---
 
-🐍 Contribution Snake
----------------------
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AcidicSoil&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -105,10 +104,9 @@ I usually prefer:
 
 </div>
 
-* * *
+---
 
-elsewhere
----------
+## elsewhere
 
 - LM Studio: [https://lmstudio.ai/dirty-data](https://lmstudio.ai/dirty-data)
 - X: <https://x.com/d1rt7d4t4>
