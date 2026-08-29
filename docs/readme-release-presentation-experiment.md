@@ -1,6 +1,6 @@
 # Public package README and release presentation experiment
 
-Status: experiment only. Do not roll this presentation across repositories until the release surfaces are verified and the layout is reviewed.
+Status: accepted presentation experiment. The layout passed visual QA; live release/version badges and profile package rows remain gated on verified public distribution evidence.
 
 ## Finding
 
@@ -131,7 +131,7 @@ Only verified installable public artifacts belong here. General repositories rem
 
 ## Review choice
 
-Recommended convention: **left-aligned package headers**. Centered headers are useful for brand-heavy landing pages, but these repositories are developer tools where the package identity, install command, and first useful invocation should form one fast vertical scan.
+Accepted convention: **left-aligned package headers**. Centered headers are useful for brand-heavy landing pages, but these repositories are developer tools where the package identity, install command, and first useful invocation should form one fast vertical scan.
 
 ## Verification checklist before rollout
 
@@ -140,12 +140,12 @@ Recommended convention: **left-aligned package headers**. Centered headers are u
 - [ ] Badge links resolve to the canonical package/release page.
 - [ ] Primary badge rows stay at six badges or fewer.
 - [ ] Install commands match the verified distribution mechanism.
-- [ ] Dark/light GitHub rendering remains legible.
-- [ ] Badge rows wrap acceptably on a narrow/mobile viewport.
+- [x] Dark/light GitHub-style rendering remains legible in the representative visual-QA fixture.
+- [x] Badge rows wrap acceptably at the tested 390px narrow/mobile viewport without horizontal overflow.
 - [ ] The profile index contains installable artifacts only, not general repositories.
 - [ ] No version is duplicated as manually maintained profile data.
-- [ ] The experiment is explicitly approved before repository-wide rollout.
+- [x] The presentation experiment is approved; repository-wide rollout remains a separate task.
 
 ## Rollout boundary
 
-This experiment intentionally changes no package repository. After review, the next slice should verify actual public distribution surfaces, add the profile `Published packages` index only for those verified artifacts, then apply the accepted header to 2–4 representative repositories before considering broader automation.
+This experiment intentionally changes no package repository. Release-surface evidence and visual QA are now recorded in `docs/readme-release-surface-verification.md` and `docs/readme-release-visual-qa.md`; the accepted reusable contract is `docs/public-release-readme-standard.md`. A separate rollout task may apply the standard only to repositories whose actual public distribution surfaces are verified. The profile `Published packages` index remains absent until at least one artifact passes that evidence gate.
