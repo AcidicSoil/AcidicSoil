@@ -28,11 +28,15 @@ A recurring theme has been asking a different question from the market: not just
 
 ## selected public work
 
-- **DSPyTeach** — a Python CLI for file analysis, prompt-library audits, teaching briefs, refactor workflows, and agent handoffs using DSPy and multiple model backends
-- **lms-llmsTxt** — a CLI and MCP toolkit for generating `llms.txt`-style repository documentation with DSPy and LM Studio-compatible workflows
-- **single-file-agents** — compact agent implementations for exploring practical agent patterns without unnecessary framework overhead
-- **deep-researcher-ts** — TypeScript work around agent-driven research workflows
-- **mcpdoc** — tooling focused on MCP-oriented documentation and developer workflows
+- **[DSPyTeach](https://github.com/AcidicSoil/DSPyTeach)** — a Python CLI for file analysis, prompt-library audits, teaching briefs, refactor workflows, and agent handoffs using DSPy and multiple model backends
+- **[Human Review](https://github.com/AcidicSoil/human-review)** — visual HTML and Markdown review tooling for editing files, leaving comments, and returning consolidated feedback to an AI agent
+- **[Registry Atlas](https://github.com/AcidicSoil/Registry-Atlas)** — a search-first interactive explorer for discovering shadcn/ui community registry items, browsing registry sources, and comparing component coverage
+- **[gh-repo-manager](https://github.com/AcidicSoil/gh-repo-manager)** — a Bubble Tea v2 TUI for managing GitHub repositories as a standalone binary or GitHub CLI extension
+- **[RelayForge](https://github.com/AcidicSoil/relayforge)** — a declarative registry and pipeline tool that resolves and validates repository workflows, compiles native agent definitions, and records artifacts and provenance
+- **[lms-llmsTxt](https://github.com/AcidicSoil/lms-llmsTxt)** — a CLI and MCP toolkit for generating `llms.txt`-style repository documentation with DSPy and LM Studio-compatible workflows
+- **[single-file-agents](https://github.com/AcidicSoil/single-file-agents)** — compact agent implementations for exploring practical agent patterns without unnecessary framework overhead
+- **[deep-researcher-ts](https://github.com/AcidicSoil/deep-researcher-ts)** — TypeScript work around agent-driven research workflows
+- **[mcpdoc](https://github.com/AcidicSoil/mcpdoc)** — tooling focused on MCP-oriented documentation and developer workflows
 
 ## beyond the public repos
 
