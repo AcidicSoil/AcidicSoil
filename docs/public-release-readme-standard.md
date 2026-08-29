@@ -72,7 +72,7 @@ If no public artifact passes the evidence gate, omit the section rather than pub
 The accepted layout was reviewed at 1280px desktop and 390px narrow/mobile widths in both GitHub-style light and dark presentation.
 
 - Left-aligned headers are the default.
-- A representative five-badge row must fit a normal desktop width on one row.
+- Representative five-badge and six-badge-hard-cap rows must fit a normal desktop width on one row.
 - On narrow/mobile widths, badges may wrap to additional lines but must not clip or create horizontal page scrolling.
 - Package summary, `Install`, and `Quick start` remain a single vertical scan after wrapping.
 - Text, code blocks, and badge labels/values must remain legible in both GitHub themes.
