@@ -38,6 +38,12 @@ A recurring theme has been asking a different question from the market: not just
 - **[deep-researcher-ts](https://github.com/AcidicSoil/deep-researcher-ts)** — TypeScript work around agent-driven research workflows
 - **[mcpdoc](https://github.com/AcidicSoil/mcpdoc)** — tooling focused on MCP-oriented documentation and developer workflows
 
+## published packages
+
+| Package | Current release | Description |
+| --- | --- | --- |
+| [dspyteach](https://pypi.org/project/dspyteach/) | [![PyPI version](https://img.shields.io/pypi/v/dspyteach?style=flat-square&label=PyPI)](https://pypi.org/project/dspyteach/) | Python CLI for DSPy-powered file analysis, prompt-library audits, teaching briefs, refactor workflows, and agent handoffs. |
+
 ## beyond the public repos
 
 A large part of my recent work lives in private repositories and active prototypes. That includes:
