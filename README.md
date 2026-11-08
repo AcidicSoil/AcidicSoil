@@ -1,12 +1,8 @@
-<div align="center">
-
 # hi, i'm DirtyData
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=760&lines=AI+Systems+%26+Developer+Tooling;Frontier+AI+%26+Unconventional+Workflows;Building+Practical+Tools+for+Human+%2B+AI+Engineering)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=760&lines=AI+Systems+%26+Developer+Tooling;Frontier+AI+%26+Unconventional+Workflows;Building+Practical+Tools+for+Human+%2B+AI+Engineering)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=AcidicSoil&style=for-the-badge&color=blueviolet)](https://github.com/AcidicSoil)
-
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=AcidicSoil&style=for-the-badge&color=blueviolet)
 
 I build AI systems and developer tooling around frontier models, agent workflows, emerging protocols, and unconventional ways of combining cloud AI capabilities into useful engineering systems.
 
@@ -29,20 +25,16 @@ A recurring theme has been asking a different question from the market: not just
 ## selected public work
 
 - **[DSPyTeach](https://github.com/AcidicSoil/DSPyTeach)** — a Python CLI for file analysis, prompt-library audits, teaching briefs, refactor workflows, and agent handoffs using DSPy and multiple model backends
-- **[Human Review](https://github.com/AcidicSoil/human-review)** — visual HTML and Markdown review tooling for editing files, leaving comments, and returning consolidated feedback to an AI agent
 - **[Registry Atlas](https://github.com/AcidicSoil/Registry-Atlas)** — a search-first interactive explorer for discovering shadcn/ui community registry items, browsing registry sources, and comparing component coverage
 - **[gh-repo-manager](https://github.com/AcidicSoil/gh-repo-manager)** — a Bubble Tea v2 TUI for managing GitHub repositories as a standalone binary or GitHub CLI extension
 - **[RelayForge](https://github.com/AcidicSoil/relayforge)** — a declarative registry and pipeline tool that resolves and validates repository workflows, compiles native agent definitions, and records artifacts and provenance
 - **[lms-llmsTxt](https://github.com/AcidicSoil/lms-llmsTxt)** — a CLI and MCP toolkit for generating `llms.txt`-style repository documentation with DSPy and LM Studio-compatible workflows
-- **[single-file-agents](https://github.com/AcidicSoil/single-file-agents)** — compact agent implementations for exploring practical agent patterns without unnecessary framework overhead
-- **[deep-researcher-ts](https://github.com/AcidicSoil/deep-researcher-ts)** — TypeScript work around agent-driven research workflows
-- **[mcpdoc](https://github.com/AcidicSoil/mcpdoc)** — tooling focused on MCP-oriented documentation and developer workflows
 
 ## published packages
 
-| Package | Current release | Description |
-| --- | --- | --- |
-| [dspyteach](https://pypi.org/project/dspyteach/) | [![PyPI version](https://img.shields.io/pypi/v/dspyteach?style=flat-square&label=PyPI)](https://pypi.org/project/dspyteach/) | Python CLI for DSPy-powered file analysis, prompt-library audits, teaching briefs, refactor workflows, and agent handoffs. |
+| Package                                          | Current release                                                                       | Description                                                                                                                |
+| ------------------------------------------------ | ------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| [dspyteach](https://pypi.org/project/dspyteach/) | ![PyPI version](https://img.shields.io/pypi/v/dspyteach?style=flat-square&label=PyPI) | Python CLI for DSPy-powered file analysis, prompt-library audits, teaching briefs, refactor workflows, and agent handoffs. |
 
 ## beyond the public repos
 
@@ -85,40 +77,25 @@ I tend to favor:
 
 ## 📊 AI Usage
 
-<div align="center">
+![Tokscale Stats](https://tokscale.ai/api/embed/AcidicSoil/svg?sort=tokens&compact=1)
 
-[![Tokscale Stats](https://tokscale.ai/api/embed/AcidicSoil/svg?sort=tokens&compact=1)](https://tokscale.ai/u/AcidicSoil)
-
-<details>
-<summary><b>GitHub embed snippet</b></summary>
+**GitHub embed snippet**
 
 ```md
 [![Tokscale Stats](https://tokscale.ai/api/embed/AcidicSoil/svg?sort=tokens&compact=1)](https://tokscale.ai/u/AcidicSoil)
 ```
 
-</details>
-
-</div>
-
 ---
 
 ## 📈 Contribution Graph
 
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AcidicSoil&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AcidicSoil&theme=tokyo-night&hide_border=true&area=true)
 
 ---
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-
 ![Snake animation](https://raw.githubusercontent.com/AcidicSoil/AcidicSoil/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 
 ---
 
